@@ -24,4 +24,3 @@ All the resources are available on the folder `deep_learning_book`. In there, I'
 ---
 
 Feel free to adjust the template to better reflect your own journey, insights, and specific contributions. Including direct links to your projects, courses, or specific sections of your work can also help others navigate your repository more effectively.
-# neural_networks
